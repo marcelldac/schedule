@@ -1,35 +1,27 @@
-# Agenda No Transito
+# Inventory Management System
 
-Uma agenda criada para a empresa No Transito feita na linguagem Python, utilizando a biblioteca Tkinter.
+The project is an inventory management system developed for the company "No Transito" using the Python programming language and the Tkinter library. It offers several functionalities, such as adding and removing events, filling in all necessary information, searching for specific events through the search menu, and modifying existing events.
 
-## Funcionalidades
+# Here are answers to some common questions:
 
-- Adicionar e remover eventos,
-- Preencher todas as informacoes necessarias,
-- Procurar eventos especificos atraves do menu de pesquisa,
-- Modificar eventos ja existentes.
+### Can I use this project for profit?
+Yes!
 
-## FAQ
+### When was this project created?
+It was created in July 2022.
 
-#### Eu posso utilizar este projeto para fins lucrativos?
-
-Sim! Pode mudar o que quiser e monetizar o que quiser! 
-
-#### Quando este projeto foi criado?
-
-Julho de 2022.
-
+The project screenshots are provided. If you have any specific questions or need further assistance, please let me know!
 
 ## Screenshots
 
 ![App Screenshot](https://i.picasion.com/pic92/64638cc48a92a54ed6b5c2cbedcc083b.gif)
 ![App Screenshot](https://user-images.githubusercontent.com/83461178/194939266-8056b20c-4bfa-459c-bbf4-5e6c8d57d19c.png)
 
-## Autor
+## Author
 
 - [@marcelldac](https://github.com/marcelldac)
 
-## Referências
+## References
 
  - [Python Documentation](https://wiki.python.org/moin/BeginnersGuide)
  - [Tkinter Documentation](https://docs.python.org/3/library/tkinter.html)
